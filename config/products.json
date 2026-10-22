@@ -1,0 +1,56 @@
+[
+  {
+    "id": "headset-01",
+    "name": "Headset gamer",
+    "description": "Seleção de headsets para melhorar a experiência de jogo.",
+    "category": "audio",
+    "store": "Shopee",
+    "icon": "🎧",
+    "url": ""
+  },
+  {
+    "id": "controle-01",
+    "name": "Controle gamer",
+    "description": "Controle para jogos: confira compatibilidade antes da compra.",
+    "category": "controles",
+    "store": "Amazon",
+    "icon": "🎮",
+    "url": ""
+  },
+  {
+    "id": "rgb-01",
+    "name": "Iluminação RGB",
+    "description": "Dê uma nova atmosfera ao seu setup.",
+    "category": "iluminacao",
+    "store": "Shopee",
+    "icon": "💡",
+    "url": ""
+  },
+  {
+    "id": "fone-02",
+    "name": "Fone para jogos",
+    "description": "Opções compactas para quem joga no celular ou PC.",
+    "category": "audio",
+    "store": "Amazon",
+    "icon": "🎧",
+    "url": ""
+  },
+  {
+    "id": "controle-02",
+    "name": "Controle sem fio",
+    "description": "Compare opções e recursos na loja parceira.",
+    "category": "controles",
+    "store": "Shopee",
+    "icon": "🕹️",
+    "url": ""
+  },
+  {
+    "id": "rgb-02",
+    "name": "Luminária gamer",
+    "description": "Detalhes de iluminação para sua mesa gamer.",
+    "category": "iluminacao",
+    "store": "Amazon",
+    "icon": "✨",
+    "url": ""
+  }
+]
