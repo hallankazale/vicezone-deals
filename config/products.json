@@ -8,7 +8,7 @@
     "icon": "🏎️",
     "url": "https://s.shopee.com.br/4VdlvMl4kA",
     "price": "R$ 67,32",
-    "priceNote": "Preço visto em 22/10/2026 — sujeito a alteração",
+    "priceNote": "Valor consultado em 22/10/2026",
     "rating": "5,0 ★ · 19 avaliações",
     "image": "assets/skyline-r34-1.webp",
     "gallery": [
@@ -22,7 +22,8 @@
       "assets/skyline-r34-2.webp",
       "assets/skyline-r34-3.webp",
       "assets/skyline-r34-4.webp"
-    ]
+    ],
+    "lastVerified": "2026-10-22"
   },
   {
     "id": "headset-01",
